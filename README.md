@@ -1,4 +1,4 @@
-# Orbital-Command-v3-Mission-Control-Dashboard
+# Orbital-Command-v7.0-Mission-Control-Dashboard
 
 The software package Orbital Command v7.0 enables operators to control satellite missions while optimizing spacecraft flight paths. The system uses real orbital mechanics and stochastic hardware simulation and genetic algorithms to create a flight-ready environment which enables mission planning and GNC (Guidance Navigation and Control) operations
 
